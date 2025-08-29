@@ -1,0 +1,14 @@
+# Build outputs
+build/
+.dart_tool/
+.packages
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Documentation
+doc/api/
